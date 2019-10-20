@@ -143,27 +143,29 @@
 
 ## Misc \ To be classified
 
-| Name             | Experience | Notes    |
-| ---------------- | ---------- | -------- |
-| GraphQL / Apollo |            |          |
-| JWT              |            |          |
-| Feathers.js      |            |          |
-| Socket.io        |            |          |
-| NGINX            |            |          |
-| Gatsby.js        |            |          |
-| Symfony          |            |          |
-| Cake PHP         |            |          |
-| Yii              |            |          |
-| Sanity.io        |            |          |
-| Stencil.js       |            |          |
-| Flutter          |            | Mobile   |
-| Storybook.js     |            | Mobile   |
-| Netlify          |            |          |
-| BackBoneJS       |            |          |
-| D3.js            |            | Data viz |
-| Font Awesome     |            |          |
-| IconMonster      |            |          |
-| Icons8           |            |          |
-| Flat Icon        |            |          |
+| Name             | Experience | Notes                      |
+| ---------------- | ---------- | -------------------------- |
+| GraphQL / Apollo |            |                            |
+| JWT              |            |                            |
+| Feathers.js      |            |                            |
+| Socket.io        |            |                            |
+| NGINX            |            |                            |
+| Gatsby.js        |            |                            |
+| Symfony          |            |                            |
+| Cake PHP         |            |                            |
+| Yii              |            |                            |
+| Sanity.io        |            |                            |
+| Stencil.js       |            |                            |
+| Flutter          |            | Mobile                     |
+| Storybook.js     |            | Mobile                     |
+| Netlify          |            |                            |
+| BackBoneJS       |            |                            |
+| D3.js            |            | Data viz                   |
+| Font Awesome     |            |                            |
+| IconMonster      |            |                            |
+| Icons8           |            |                            |
+| Flat Icon        |            |                            |
+| ESLint           |            | Need to set-up mindlessly! |
+| Prettier         |            | Need to set-up mindlessly! |
 
 \*\* Cool site: https://www.keycdn.com/blog/web-development-tools
