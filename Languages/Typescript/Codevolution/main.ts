@@ -1,3 +1,5 @@
+// Reference video: https://www.youtube.com/watch?v=WBPrJSw7yQA
+
 export { }
 let message = 'Welcome back';
 console.log(message);
