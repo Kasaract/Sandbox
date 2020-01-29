@@ -1,3 +1,22 @@
+/Frameworks/first_flutter_app/.idea/
+/Frameworks/first_flutter_app/.dart_tool/
+/Frameworks/first_flutter_app/.packages
+/Frameworks/first_flutter_app/.pub-cache/
+/Frameworks/first_flutter_app/.pub/
+/Frameworks/first_flutter_app/build/
+
+/Frameworks/data_app_flutter/.idea/
+/Frameworks/data_app_flutter/.dart_tool/
+/Frameworks/data_app_flutter/.packages
+/Frameworks/data_app_flutter/.pub-cache/
+/Frameworks/data_app_flutter/.pub/
+/Frameworks/data_app_flutter/build/
+
+/Frameworks/first_electron_app/node_modules
+/Frameworks/first_electron_app/release-builds
+
+/Frameworks/first-gatsby-site/node_modules/
+
 /Libraries/Formik/formik-typescript/node_modules
 
 /Frameworks/Typescript-React/ben-awad-ts-react-ex/node_modules
